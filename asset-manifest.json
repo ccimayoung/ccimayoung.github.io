@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0aaaea78.css",
-    "main.js": "/static/js/main.31a10149.js",
+    "main.css": "/static/css/main.60dbcd0b.css",
+    "main.js": "/static/js/main.9639f2a5.js",
     "static/js/787.e3a1bc09.chunk.js": "/static/js/787.e3a1bc09.chunk.js",
     "static/media/A타이틀고딕2.TTF": "/static/media/A타이틀고딕2.13f721db5cbb76c1be33.TTF",
     "static/media/A타이틀고딕4.TTF": "/static/media/A타이틀고딕4.a8bb1a557bf28cddb332.TTF",
@@ -9,12 +9,12 @@
     "static/media/OPENSANS-REGULAR.TTF": "/static/media/OPENSANS-REGULAR.57cd57a648021fa1c396.TTF",
     "static/media/OPENSANS-BOLD.TTF": "/static/media/OPENSANS-BOLD.a0fe34bea92d4e1a84d6.TTF",
     "index.html": "/index.html",
-    "main.0aaaea78.css.map": "/static/css/main.0aaaea78.css.map",
-    "main.31a10149.js.map": "/static/js/main.31a10149.js.map",
+    "main.60dbcd0b.css.map": "/static/css/main.60dbcd0b.css.map",
+    "main.9639f2a5.js.map": "/static/js/main.9639f2a5.js.map",
     "787.e3a1bc09.chunk.js.map": "/static/js/787.e3a1bc09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aaaea78.css",
-    "static/js/main.31a10149.js"
+    "static/css/main.60dbcd0b.css",
+    "static/js/main.9639f2a5.js"
   ]
 }
